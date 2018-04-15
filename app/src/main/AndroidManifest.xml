@@ -30,10 +30,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".Bluetooth_Module"
             android:label="@string/title_activity_bluetooth__module"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+=======
+
+>>>>>>> feature/bluetooth
     </application>
 
 </manifest>
